@@ -6,7 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 
 public class TestBase {
     @BeforeEach
-    public void stert(){
+    public void start(){
         RestAssured.filters(new AllureRestAssured());
         RestAssured.baseURI = "http://demowebshop.tricentis.com";
     }

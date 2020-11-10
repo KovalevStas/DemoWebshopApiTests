@@ -1,0 +1,33 @@
+"------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"removefromcart\"\n" +
+                        "\n" +
+                        "1492288\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"itemquantity1492288\"\n" +
+                        "\n" +
+                        "1\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"updatecart\"\n" +
+                        "\n" +
+                        "Update shopping cart\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"discountcouponcode\"\n" +
+                        "\n" +
+                        "\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"giftcardcouponcode\"\n" +
+                        "\n" +
+                        "\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"CountryId\"\n" +
+                        "\n" +
+                        "0\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"StateProvinceId\"\n" +
+                        "\n" +
+                        "0\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm\n" +
+                        "Content-Disposition: form-data; name=\"ZipPostalCode\"\n" +
+                        "\n" +
+                        "\n" +
+                        "------WebKitFormBoundaryn5XDxFuBNIYecXXm--\n"

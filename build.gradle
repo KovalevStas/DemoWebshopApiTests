@@ -10,9 +10,16 @@ repositories {
     mavenCentral()
 }
 
-compileTestJava {options.encoding = 'UTF-8'}
-compileJava{options.encoding ='UTF-8'}
+compileTestJava { options.encoding = 'UTF-8' }
+compileJava { options.encoding = 'UTF-8' }
 
+allure {
+    autoconfigure = true
+    version = '2.13.5'
+    useJUnit5 {
+        version = '2.13.5'
+    }
+}
 
 dependencies {
     compile(
@@ -29,14 +36,6 @@ dependencies {
             'com.fasterxml.jackson.core:jackson-databind:2.11.2',
             'io.qameta.allure:allure-rest-assured:2.13.5'
     )
-}
-
-allure {
-    autoconfigure = true
-    version = '2.13.5'
-    useJUnit5 {
-        version = '2.13.5'
-    }
 }
 
 test {
